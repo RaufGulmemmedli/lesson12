@@ -1,0 +1,19 @@
+.input::placeholder{
+color: white !important;
+}
+.card{
+    border: none;
+}
+.card img{
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+}
+
+.boxCenter img{
+    margin-left: 50px;
+}
+
+.boxs{
+    border-bottom: 1px solid black;
+}
